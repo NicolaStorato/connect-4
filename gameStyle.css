@@ -97,19 +97,14 @@ body {
 
 /* Stile per il pulsante "Torna al Menu" */
 #menu {
-  padding: 10px 20px;
-  font-size: 16px;
-  margin-top: 10px;
-  cursor: pointer;
-  background-color: #4CAF50;
-  color: white;
+  background-color: #ffffff;
+  font-size: 1.4em;
+  padding: 1em 2em;
   border: none;
-  border-radius: 5px;
-  display: block;
-  margin: 10px auto 0 auto;
+  outline: none;
+  border-radius: 2em;
+  cursor: pointer;
 }
 
-#menu:hover {
-  background-color: #45a049;
-}
+
 

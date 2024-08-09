@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background-color: #416cea;
     margin: 0;
 }
 
@@ -41,7 +41,7 @@ button {
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
-    background-color: #4CAF50;
+    background-color: #416cea;
     color: white;
     cursor: pointer;
 }
