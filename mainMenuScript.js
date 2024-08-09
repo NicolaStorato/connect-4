@@ -11,7 +11,15 @@ document.getElementById("inserisciNickname").addEventListener("click", function(
     }
 
     if(player1 != 0 && player2 != 0){
-        window.location.href = 'index.html';
+        
+        localStorage.setItem('player1', player1);
+        localStorage.setItem('player2', player2);
+
+        window.location.href = 'gameIndex.html';
     }
     
+})
+
+document.getElementById("classificaButton").addEventListener("click", function() {
+    window.location.href = 'classificaIndex.html';
 })

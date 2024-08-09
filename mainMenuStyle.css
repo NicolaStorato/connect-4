@@ -1,5 +1,5 @@
 body {
-    background-image: url('C:/Users/39351/Documents/connect 4/connect-4/screen_comp-321.jpeg');
+    background-image: url('screen_comp-321.jpeg');
     background-size: auto; /* Ridimensiona l'immagine per coprire l'intera pagina */
     background-repeat: no-repeat; /* Evita la ripetizione dell'immagine */
     display: flex;

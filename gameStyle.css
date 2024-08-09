@@ -94,3 +94,22 @@ body {
   color: #ffffff;
   font-size: 1.2em;
 }
+
+/* Stile per il pulsante "Torna al Menu" */
+#menu {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  display: block;
+  margin: 10px auto 0 auto;
+}
+
+#menu:hover {
+  background-color: #45a049;
+}
+
